@@ -8,6 +8,8 @@ This repository contains Python scripts that I create while exploring different 
     - `seq.py`: Check if a sequence is arithmetic or geometric and print the formula
     - `seq_sum.py`: Calculate the sum of an arithmetic sequence
     - `continued_frac.py`: Convert a repeating decimal number into a fraction
+    - `seq_sum_geo.py`: Calculate the sum of a geometric sequence
+    - `diffs.py`: Find the difference between each consecutive pair of numbers in a sequence.
 
 ## Getting Started
 
