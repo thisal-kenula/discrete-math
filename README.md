@@ -9,7 +9,8 @@ This repository contains Python scripts that I create while exploring different 
     - `seq_sum.py`: Calculate the sum of an arithmetic sequence
     - `continued_frac.py`: Convert a repeating decimal number into a fraction
     - `seq_sum_geo.py`: Calculate the sum of a geometric sequence
-    - `diffs.py`: Find the difference between each consecutive pair of numbers in a sequence.
+    - `diffs.py`: Find the difference between each consecutive pair of numbers in a sequence. And find the coefficients of the polynomial that generates the sequence.
+    - `find_n_term.ipynb`: Find the coefficients of the polynomial that generates given sequence.
 
 ## Getting Started
 
