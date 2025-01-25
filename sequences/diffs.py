@@ -24,8 +24,9 @@ def find_diffs(seq):
         seq = diffs
         print(diffs)
         if all(diffs[i] == diffs[i - 1] for i in range(1, len(diffs))):
-            if len(diffs) != 1: print(f'Δ{k}-constant sequence')
-            return k
+            if len(diffs) != 1: 
+                print(f'Δ{k}-constant sequence')
+                return k
     return None
 
 def find_a_n(k, seq):
@@ -35,7 +36,7 @@ def find_a_n(k, seq):
     return list(m1 * m2)
 
 # Usage
-sequence = [1, 2, 4, 8, 15, 26]
+sequence = [4, 7, 11, 18, 29, 47]
 
 k = find_diffs(sequence)
 
