@@ -35,9 +35,9 @@ def find_a_n(k, seq):
     return list(m1 * m2)
 
 # Usage
-# sequence = [1, 2, 4, 8, 15, 26]
+sequence = [1, 2, 4, 8, 15, 26]
 
-# k = find_diffs(sequence)
+k = find_diffs(sequence)
 
-# if k:
-#     print(find_a_n(k, sequence))
+if k:
+    print(find_a_n(k, sequence))
