@@ -2,7 +2,7 @@
 
 This repository contains Python scripts that I create while exploring different topics in **Discrete Mathematics**. Each script solves a specific problem or concept inspired by the book *Discrete Mathematics: An Open Introduction* by **Oscar Levin**.
 
-📌 **Note:** This repository is currently on hold and is not actively maintained.  
+📌 **Note:** This repository is not actively maintained.  
 
 ## Topics Covered
 
